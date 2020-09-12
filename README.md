@@ -6,7 +6,7 @@
 * Any other technology can be used if it is required. For example, Cloud Computing knowledge can be used if the machines are running on cloud.
 
 # Aim of this Project
-* This project aims to use Machine Learning algorithms to group some machines/systems based on the resource usage.
+* This project aims to use Machine Learning or Deep Learning algorithms to group some machines/systems based on the resource usage.
 
 # Action Plan
 * One script is to be constructed in this project, in which the main function will take one argument(an Integer number), & that argument signifies the number of machine which has to clustered using any Machine Learning or Deep Learning Algorithm.
