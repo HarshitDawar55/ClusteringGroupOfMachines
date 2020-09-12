@@ -23,4 +23,5 @@
 * This project can be used in any field in the world. For example, if there is a cluster of machines in the Big Data World, & there is a requirement to run 
 some processes, then we should know on which machine, the tasks has to be deployed. This requirement can be fulfilled by this project.
 
-*  
+* This project can find out its role in multiple other technologies like Cloud, automation, or any other technology/Area to help the person/team 
+to identify the machines with free resources in a big cluster on the fly.
