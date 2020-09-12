@@ -16,3 +16,11 @@
 * Any way/technology can be used to retrieve the metrics of the machine which are running, & those metrics has to be used to identify the machines with most of their resources free using any Machine Learning or Deep Learning algorithms.
 
 * After identifying the machines, their public IP Addresses (if on cloud, or local IP Address if in a local network) should be returned by the script.
+
+# Scope of the Project
+* This project can be used to identify the machines on which multiple workloads can be deployed.
+
+* This project can be used in any field in the world. For example, if there is a cluster of machines in the Big Data World, & there is a requirement to run 
+some processes, then we should know on which machine, the tasks has to be deployed. This requirement can be fulfilled by this project.
+
+*  
