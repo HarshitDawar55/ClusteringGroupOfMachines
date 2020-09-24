@@ -1,3 +1,4 @@
+[![Gitter](https://badges.gitter.im/ClusteringGroupOfMachines/community.svg)](https://gitter.im/ClusteringGroupOfMachines/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # ClusteringGroupOfMachines
 :sparkles::fireworks::tada: Important points about this Repository!!!!! :tada::fireworks::sparkles:
 
