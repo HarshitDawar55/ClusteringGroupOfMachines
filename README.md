@@ -9,6 +9,9 @@
 # Aim of this Project
 * This project aims to use Machine Learning or Deep Learning algorithms to group some machines/systems based on the resource usage.
 
+# Dataset used:
+Link of the dataset used in this project : http://gwa.ewi.tudelft.nl/datasets/gwa-t-13-materna
+
 # Action Plan
 * One script is to be constructed in this project, in which the main function will take one argument(an Integer number), & that argument signifies the number of machine which has to clustered using any Machine Learning or Deep Learning Algorithm.
 
